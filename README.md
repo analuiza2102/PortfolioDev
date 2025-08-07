@@ -24,21 +24,6 @@ Oiii, esse projeto é um pedacinho de mim, como desenvolvedora full stack e anal
 - **Figma (UI/UX Design)**
 
 ---
-
-## 📁 Estrutura de Diretórios
-
-📁 AnaLuizaPortfólioOficial
-├── index.html
-├── js/
-│ └── script.js
-├── styles/
-│ └── style.css
-├── components/
-│ └── img/
-│ └── (imagens do portfólio)
-└── README.md
----
-
 ## 📬 Contato
 
 Caso deseje entrar em contato comigo para parcerias, oportunidades ou dúvidas, estou à disposição:
