@@ -26,7 +26,7 @@ Oiii, esse projeto é um pedacinho de mim, como desenvolvedora full stack e anal
 ---
 ## ✨ Demonstração
 
-![Demonstração do portfólio](https://imgur.com/a/1gdZpdh)
+![Demonstração](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RkYTh6dmlqOHNhYmQxNGQxanM2OG0ydzJpMGZjbmp6dWQ1bTV4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SGYYYI2LbvjVPJtr7/giphy.gif)
 ---
 
 
